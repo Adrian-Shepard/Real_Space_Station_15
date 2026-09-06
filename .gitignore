@@ -1,0 +1,28 @@
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+packages/
+*.nupkg
+
+# User-specific
+*.rsuser
+*.userprefs
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
